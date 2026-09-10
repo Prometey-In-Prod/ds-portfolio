@@ -20,7 +20,3 @@
 ## Стек
 
 Python · pandas · NumPy · scikit-learn · Matplotlib · Jupyter · SQL
-
-## Контакты
-
-<!-- заполнить: почта, telegram, ссылка на резюме -->
